@@ -91,8 +91,8 @@ The project uses a star-schema based relational model with realistic business lo
 ## Files Included
 
 - Power BI Dashboard (.pbix)
-- SQL Schema & Load Scripts
-- CSV Datasets
+- SQL Script
+- Python Script
 - Dashboard Screenshots
 
 ---
